@@ -3,5 +3,5 @@ email addresses of visitors. This is a template.
 
 Here's what it looks like:
 
-![](http://rs.io/squeeze-example.png)
+![](http://rs.io/img/squeeze-example.png)
 
